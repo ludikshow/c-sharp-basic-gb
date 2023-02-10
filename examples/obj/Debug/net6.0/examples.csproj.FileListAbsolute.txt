@@ -1,0 +1,15 @@
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\bin\Debug\net6.0\examples.exe
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\bin\Debug\net6.0\examples.deps.json
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\bin\Debug\net6.0\examples.runtimeconfig.json
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\bin\Debug\net6.0\examples.dll
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\bin\Debug\net6.0\examples.pdb
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\examples.csproj.AssemblyReference.cache
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\examples.AssemblyInfoInputs.cache
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\examples.AssemblyInfo.cs
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\examples.csproj.CoreCompileInputs.cache
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\examples.dll
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\refint\examples.dll
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\examples.pdb
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\examples.genruntimeconfig.cache
+C:\Users\Lyudmila Karpenko\Documents\Учеба\repos\c_sharp\examples\obj\Debug\net6.0\ref\examples.dll
