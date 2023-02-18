@@ -4,11 +4,22 @@ Console.WriteLine("Homework #2");
 Console.WriteLine("Введите день недели:");
 int x1 = Convert.ToInt32(Console.ReadLine());
 
-if (x1 == 6 || x1 == 7)
+
+if (x1 < 1 || x1 > 7) 
 {
-    Console.WriteLine($"да");
+    Console.WriteLine("Это не день недели");
 }
 else
 {
-    Console.WriteLine($"нет");
+    if (x1 == 6 || x1 == 7) 
+    {
+        Console.WriteLine("да");
+    }
+    else
+    {
+        Console.WriteLine("нет");
+    }
 }
+
+ Console.WriteLine("пока!");
+ 
