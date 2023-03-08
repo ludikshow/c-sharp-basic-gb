@@ -22,4 +22,5 @@ line2[0] = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите константу для прямой 2:");
 line2[1] = Convert.ToDouble(Console.ReadLine());
 
- 
+double[] result = FindCross(line1, line2);
+Console.WriteLine($"Пересечение прямых в коориданте [{result[0]}, {result[1]}]");
